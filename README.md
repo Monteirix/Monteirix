@@ -14,12 +14,11 @@
 
 </div>
 
----
 
 
 <div align="center">
 
-# 👨‍💻 Matheus Monteiro
+
 
 ### Back-end Developer • Java • Spring Boot
 
@@ -206,9 +205,9 @@ Primeira API REST construída utilizando Spring Boot, JPA, Hibernate e PostgreSQ
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Monteirix&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.shion.dev/api?username=Monteirix&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monteirix&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Monteirix&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -234,21 +233,13 @@ Primeira API REST construída utilizando Spring Boot, JPA, Hibernate e PostgreSQ
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Monteirix&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Monteirix/Monteirix/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/Monteirix/Monteirix/gh-pages/github-contribution-grid-snake-dark.svg">
 
 </div>
 
