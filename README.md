@@ -18,7 +18,7 @@
 
 <div align="center">
 
-```text
+
 ██████████████████████████████████████████████
 
 > Initializing JARVIS Core...
@@ -39,7 +39,7 @@ SYSTEM STATUS: ONLINE
 Welcome, Developer.
 
 ██████████████████████████████████████████████
-```
+
 
 </div>
 
@@ -59,7 +59,7 @@ Welcome, Developer.
 
 ## 🌌 About Me
 
-```yaml
+
 Name: Matheus Monteiro
 
 Country: Brazil 🇧🇷
@@ -84,7 +84,7 @@ Next Goals:
 
 Passion:
   Transforming ideas into scalable software.
-```
+
 
 ---
 
@@ -130,7 +130,7 @@ Passion:
 
 ## 🛰 Current Focus
 
-```text
+
 > java
 
 Loading...
@@ -162,7 +162,7 @@ NEXT MODULES
 □ Microservices
 
 □ Kafka
-```
+
 
 ---
 
@@ -208,7 +208,7 @@ NEXT MODULES
 
 ---
 
-````md
+
 # 📂 Featured Projects
 
 <div align="center">
@@ -266,7 +266,7 @@ Primeira API REST construída utilizando Spring Boot, JPA, Hibernate e PostgreSQ
 
 # 🖥 Terminal
 
-```bash
+
 matheus@jarvis:~$ whoami
 
 > Java Backend Developer
@@ -303,7 +303,7 @@ Next:
 
 > Kubernetes
 
-```
+
 
 ---
 
@@ -395,7 +395,7 @@ Next:
 
 ## ⚡ SYSTEM STATUS
 
-```text
+
 CPU ................. █████████████ 100%
 
 JAVA ................ █████████████ 100%
@@ -411,7 +411,7 @@ MICROSERVICES ....... ██░░░░░░░░░░░ 10%
 MISSION
 
 Become a Software Engineer.
-```
+
 
 </div>
 
