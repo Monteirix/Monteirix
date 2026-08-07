@@ -248,9 +248,7 @@ Primeira API REST construída utilizando Spring Boot, JPA, Hibernate e PostgreSQ
 
 <div align="center">
 
-> **⚠️ Crie o workflow da Snake Animation para que esta imagem funcione.**
-
-<img src="https://raw.githubusercontent.com/Monteirix/Monteirix/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Monteirix/Monteirix/output/github-contribution-grid-snake.svg">
 
 </div>
 
