@@ -16,34 +16,6 @@
 
 ---
 
-<div align="center">
-
-
-██████████████████████████████████████████████
-
-> Initializing JARVIS Core...
-
-[■■□□□□□□□□] 15%
-
-Loading Java Runtime...
-Loading Spring Boot...
-Loading Hibernate Engine...
-Connecting PostgreSQL...
-Initializing REST Services...
-Injecting Coffee ☕
-
-[■■■■■■■■■■] 100%
-
-SYSTEM STATUS: ONLINE
-
-Welcome, Developer.
-
-██████████████████████████████████████████████
-
-
-</div>
-
----
 
 <div align="center">
 
@@ -128,43 +100,7 @@ Passion:
 
 ---
 
-## 🛰 Current Focus
 
-
-> java
-
-Loading...
-
-✔ Java
-
-✔ Spring Boot
-
-✔ REST APIs
-
-✔ Hibernate
-
-✔ PostgreSQL
-
-✔ Maven
-
-----------------------------
-
-NEXT MODULES
-
-□ Spring Security
-
-□ JWT
-
-□ Docker
-
-□ AWS
-
-□ Microservices
-
-□ Kafka
-
-
----
 
 ## ⚙ Development Environment
 
@@ -264,48 +200,7 @@ Primeira API REST construída utilizando Spring Boot, JPA, Hibernate e PostgreSQ
 
 ---
 
-# 🖥 Terminal
 
-
-matheus@jarvis:~$ whoami
-
-> Java Backend Developer
-
-matheus@jarvis:~$ current_stack
-
-✔ Java
-
-✔ Spring Boot
-
-✔ Hibernate
-
-✔ JPA
-
-✔ PostgreSQL
-
-✔ Maven
-
-matheus@jarvis:~$ roadmap
-
-[#####################-------------] 70%
-
-Next:
-
-> Spring Security
-
-> JWT
-
-> Docker
-
-> AWS
-
-> Microservices
-
-> Kubernetes
-
-
-
----
 
 # 📊 GitHub Analytics
 
