@@ -83,21 +83,7 @@ Passion:
 
 ---
 
-## ⚡ Technologies
 
-<div align="center">
-
-| Backend | Database | Tools |
-|---------|----------|-------|
-| Java | PostgreSQL | IntelliJ |
-| Spring Boot | MySQL | Git |
-| Hibernate | H2 | GitHub |
-| JPA | SQL | VS Code |
-| Maven | | Docker |
-
-</div>
-
----
 
 
 
@@ -119,29 +105,7 @@ Passion:
 
 ---
 
-<div align="center">
 
-# ⚡ STATUS
-
-🟢 Java ............ ONLINE
-
-🟢 Spring Boot ..... ONLINE
-
-🟢 Hibernate ....... ONLINE
-
-🟢 JPA ............. ONLINE
-
-🟢 PostgreSQL ...... ONLINE
-
-🟡 Docker .......... LEARNING
-
-🟡 AWS ............. LOADING...
-
-🟡 Microservices ... LOADING...
-
-</div>
-
----
 
 
 # 📂 Featured Projects
@@ -223,15 +187,6 @@ Primeira API REST construída utilizando Spring Boot, JPA, Hibernate e PostgreSQ
 
 ---
 
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monteirix&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 
 
@@ -277,20 +232,6 @@ Primeira API REST construída utilizando Spring Boot, JPA, Hibernate e PostgreSQ
 
 <div align="center">
 
-## ⚡ SYSTEM STATUS
-
-
-CPU ................. █████████████ 100%
-
-JAVA ................ █████████████ 100%
-
-SPRING BOOT ......... ██████████░░░ 80%
-
-DOCKER .............. ██████░░░░░░░ 45%
-
-AWS ................. ███░░░░░░░░░░ 20%
-
-MICROSERVICES ....... ██░░░░░░░░░░░ 10%
 
 MISSION
 
@@ -299,7 +240,7 @@ Become a Software Engineer.
 
 </div>
 
----
+
 
 <div align="center">
 
