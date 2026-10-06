@@ -112,19 +112,66 @@ Passion:
 
 <div align="center">
 
+<div style="max-height: 900px; overflow-y: auto;">
+
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 📚 Library Management System
+## 🔐 MTech Security
 
-Sistema de gerenciamento de biblioteca desenvolvido em Java utilizando boas práticas de orientação a objetos e persistência de dados.
+API REST de autenticação desenvolvida em Java com Spring Boot, utilizando Spring Security e JWT para autenticação e proteção de endpoints.
 
 ### Tecnologias
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Java](https://img.shields.io/badge/Java-23-ED8B00?style=flat-square\&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.1-6DB33F?style=flat-square\&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-7.1.1-6DB33F?style=flat-square\&logo=springsecurity)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square\&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+
+🔗 **Repositório**
+
+> https://github.com/Monteirix/mtech-security
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚀 Minha Primeira Spring API
+
+Primeira API REST desenvolvida com Spring Boot, explorando persistência de dados, JPA, Hibernate e PostgreSQL.
+
+### Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square\&logo=springboot)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square\&logo=hibernate)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql)
+
+🔗 **Repositório**
+
+> https://github.com/Monteirix/minha-primeira-spring-api
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📚 Library Management System
+
+Sistema de gerenciamento de biblioteca desenvolvido em Java utilizando orientação a objetos e persistência de dados com JDBC e MySQL.
+
+### Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql)
 ![JDBC](https://img.shields.io/badge/JDBC-000000?style=flat-square)
 ![Swing](https://img.shields.io/badge/Java%20Swing-007396?style=flat-square)
 
@@ -134,25 +181,7 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java utilizando boas prá
 
 </td>
 
-<td width="50%">
-
-## 🚀 Spring REST API
-
-Primeira API REST construída utilizando Spring Boot, JPA, Hibernate e PostgreSQL.
-
-### Tecnologias
-
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot)
-
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
-
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-
-🔗 **Repositório**
-
-> https://github.com/Monteirix/minha-primeira-spring-api
+<td width="50%" valign="top">
 
 </td>
 
@@ -160,6 +189,9 @@ Primeira API REST construída utilizando Spring Boot, JPA, Hibernate e PostgreSQ
 </table>
 
 </div>
+
+</div>
+
 
 ---
 
