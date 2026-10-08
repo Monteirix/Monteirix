@@ -45,12 +45,12 @@ Currently Learning:
   - JPA
   - PostgreSQL
   - Docker
+  -  Spring Security
+  - JWT
 
 Next Goals:
   - AWS
   - Microservices
-  - Spring Security
-  - JWT
   - CI/CD
 
 Passion:
